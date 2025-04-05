@@ -1,8 +1,12 @@
 package models;
 
-public class fabricante {
-    public void VeiculoDoAno;{
-        System.out.println("Carro de corrida");
+public abstract class ModeloAno{
+
+    public void VeiculoDoAno (){
+
+    System.out.println("Carro de corrida XYZ");
 
     };
+
+
 }
